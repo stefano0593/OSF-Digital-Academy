@@ -1,0 +1,19 @@
+.container {
+    border: 10px solid;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 20%;
+}
+
+.child {
+    display: flex;
+    justify-content: center;
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.result {
+    margin-left: 2rem;
+}
